@@ -1,0 +1,16 @@
+/* 1 */
+#typed-text {
+    direction: rtl;
+    text-align: right;
+    display: inline-block;
+}
+
+/* 2 */
+/* #text::after {
+    content: "|";
+    animation: blink 0.8s infinite;
+}
+
+@keyframes blink {
+    50% { opacity: 0; }
+} */
